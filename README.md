@@ -1,6 +1,6 @@
 # 🐍 Python Daily Practice
 
-This repository contains my daily Python practice as a beginner.
+This repository contains my daily Python practice as a beginner.  
 I am learning Python step by step and uploading my progress here regularly.
 
 ---
@@ -8,25 +8,24 @@ I am learning Python step by step and uploading my progress here regularly.
 ## 📌 Topics Covered (Day 1 & Day 2)
 
 ### 🔹 Introduction to Python
-- Python is a high-level, interpreted programming language.
-- It is easy to learn and widely used in web development, data science, AI, and automation.
+Python is a high-level, interpreted programming language.  
+It is easy to learn and widely used in web development, data science, AI, and automation.
 
 ---
 
 ### 🔹 Variables
-- Variables are used to store data in memory.
-- In Python, we do not need to define the data type explicitly.
+Variables are used to store data in memory.  
+In Python, we do not need to define the data type explicitly.
 
-Example:
+**Example:**
 ```python
 name = "Fakiha"
 age = 18
 🔹 Comments
 Comments are used to explain code.
-
 They are ignored by the Python interpreter.
 
-Types of comments:
+Example:
 
 python
 Copy code
@@ -70,7 +69,6 @@ b = 5
 print(a > b and b < 10)
 🔹 What is a Module?
 A module is a file that contains Python code.
-
 It helps us reuse code.
 
 Example:
@@ -81,7 +79,6 @@ import math
 print(math.sqrt(16))
 🔹 What is PIP?
 PIP stands for Python Installer Package.
-
 It is used to install external Python libraries.
 
 Example:
@@ -97,8 +94,3 @@ Practice daily
 Build consistency and improve problem-solving skills
 
 ✨ This repository will be updated regularly as I learn more Python concepts.
-
-yaml
-Copy code
-
----
