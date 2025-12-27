@@ -42,3 +42,14 @@ print(a != b)
 
 
 # logical operators
+a = 10
+b = 5
+
+# AND operator
+print(a > 5 and b < 10)   # True and True → True
+
+# OR operator
+print(a < 5 or b < 10)   # False or True → True
+
+# NOT operator
+print(not(a == 10))      # not True → False
